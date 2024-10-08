@@ -1,5 +1,3 @@
-// rchaney@pdx.edu
-
 #ifndef _THREAD_CRYPT_H
 # define _THREAD_CRYPT_H 1
 
